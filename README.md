@@ -44,4 +44,4 @@ If the backend is unavailable, the app falls back to built-in demo data.
 - Frontend: Vercel
 - Backend: Render or Railway
 - Database: Supabase
-- Messaging: Twilio
+- Messaging: Twilio.
